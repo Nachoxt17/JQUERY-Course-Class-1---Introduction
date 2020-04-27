@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+#box1 {
+    width: 500px;
+    height: 400px;
+    background: blue;
+    cursor: pointer;
+}
+
+#box2 {
+    width: 500px;
+    height: 400px;
+    background: green;
+    cursor: pointer;
+}
